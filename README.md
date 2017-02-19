@@ -36,6 +36,11 @@ http://jinzhu.me/gorm/
 https://github.com/lib/pq
 - go get github.com/lib/pq
 
+### install a deep pretty printer for Go data structures
+https://github.com/davecgh/go-spew
+- go get -u github.com/davecgh/go-spew/spew
+
+
 ### install bash git prompt
 https://github.com/magicmonty/bash-git-prompt
 - cd ~
